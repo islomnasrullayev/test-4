@@ -1,0 +1,25 @@
+.master-content {
+	background-color: white;
+	border-radius: 20px;
+}
+
+
+.formula {
+	padding: 5px 10px 0px 10px;
+	font-size: 25px;
+	font-weight: 450;
+}
+
+
+.rule {
+	padding: 8px 10px 0px 10px;
+	line-height: 23px;
+}
+
+.first-example,
+.second-example,
+.third-example {
+	padding: 8px 10px 10px 10px;
+	font-weight: 410;
+	line-height: 23px;
+}
